@@ -1,0 +1,28 @@
+# .github/workflows/build-readme.yml
+# Keeps the "This week I coded" section fresh from WakaTime.
+# Commit this to ST10439147/ST10439147 on the main branch.
+# NOTE: GitHub disables scheduled workflows after 60 days of repo inactivity.
+# Don't add keepalive commit hacks to dodge that — it risks a ToS strike.
+name: Build README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # run manually from the Actions tab
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write             # the action commits the rewritten README
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update WakaTime stats
+        uses: athul/waka-readme@master   # upstream says: do not pin to anything else
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "true"
