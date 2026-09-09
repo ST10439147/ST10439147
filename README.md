@@ -27,15 +27,15 @@ Final-year BCAD student in Computer and Information Sciences (Application Develo
 | **[Cloud-Azure-Functions-App](https://github.com/ST10439147/Cloud-Azure-Functions-App)** | Retail management platform on ASP.NET Core 8 MVC with cookie-auth + role-based access, backed by Azure SQL for credentials and Azure Table / Blob / Queue Storage for business data. CRUD is exposed through Azure Functions on the .NET 8 isolated worker. |
 | **[CMCS_Platform](https://github.com/ST10439147/CMCS_Platform)** | Contract monthly claim system for contractor lecturers: two-stage approval workflow (coordinator → manager), four user roles, AES-256 encrypted document storage, and an audit trail. EF Core + SQL Server, xUnit / MSTest. |
 | **[Chatbot](https://github.com/ST10439147/Chatbot)** | WPF cybersecurity-awareness assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions. |
-| **Quloobul Moe'mieneen — NPO Management Platform** *(Work-Integrated Learning, private)* | Currently building this for a non-profit organisation as part of a student team. ASP.NET Core Web API on .NET 10, EF Core, Azure SQL Database, Azure Key Vault, Azure Blob Storage, Blazor web client, .NET MAUI Android client. |
+| **Quloobul Moe'mieneen - NPO Management Platform** *(Work-Integrated Learning, private)* | Currently building this for a non-profit organisation as part of a student team. ASP.NET Core Web API on .NET 10, EF Core, Azure SQL Database, Azure Key Vault, Azure Blob Storage, Blazor web client, .NET MAUI Android client. |
 | **[StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem)** | Java console app for managing student records - capture, search, delete, and generate reports on student information. |
 | **[KanbanBoard](https://github.com/ST10439147/KanbanBoard)** | Java task board: add tasks and generate a report view of tasks and their details. |
 | **[FPSJFrame](https://github.com/ST10439147/FPSJFrame)** | Java Swing maze game with background audio. |
 
 ### Coursework (PROG6212)
 
-[TheBigMystery — reflection, late binding & attribute-based programming](https://github.com/ST10439147/TheBigMystery_ST10439147_PROG_ICE05) ·
-[SheinusDorpers — building & configuring class libraries](https://github.com/ST10439147/SheinusDorpers) ·
+[TheBigMystery - reflection, late binding & attribute-based programming](https://github.com/ST10439147/TheBigMystery_ST10439147_PROG_ICE05) ·
+[SheinusDorpers - building & configuring class libraries](https://github.com/ST10439147/SheinusDorpers) ·
 [DorperFarm2 (ICE02)](https://github.com/ST10439147/DorperFarm2_ST10439147_ICE02) ·
 [ICE03](https://github.com/ST10439147/ST10439147_PROG6212_ICE03) ·
 [ICE01](https://github.com/ST10439147/ST10439147_PROG6212_ICE01)
