@@ -2,11 +2,9 @@
 <p align="center"><strong>Backend &amp; Cloud Engineer</strong> · Cape Town, South Africa</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dillon-rinkwest"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dillon-rinkwest-1005702a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dillonrinkwest@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<!-- Replace the LinkedIn URL above with your actual profile if the slug differs. -->
 
 ---
 
