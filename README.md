@@ -27,6 +27,12 @@ Final-year BCAD student in Computer and Information Sciences (Application Develo
 | **[Chatbot](https://github.com/ST10439147/Chatbot)** | WPF cybersecurity-awareness assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions. |
 | **Quloobul Moe'mieneen — NPO Management Platform** *(Work-Integrated Learning, private)* | Currently building this for a non-profit organisation as part of a student team. ASP.NET Core Web API on .NET 10, EF Core, Azure SQL Database, Azure Key Vault, Azure Blob Storage, Blazor web client, .NET MAUI Android client. |
 
+## Experience
+
+| Role | Where | Details |
+| --- | --- | --- |
+| **Tutor** | School of Computer Science, Emeris (Newlands) | Tutor for the School of Computer Science, supporting students in application development and programming fundamentals. |
+
 ## Toolbox
 
 | | |
