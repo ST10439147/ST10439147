@@ -1,14 +1,14 @@
 Dillon Rinkwest
 Backend & Cloud Engineer · Cape Town, South Africa
 
-Final-year BSc student in Computer and Information Sciences (Application Development) at Emeris, Newlands. I build C# / ASP.NET Core backends and wire them to Azure cloud services — serverless functions, table/blob/queue storage, and SQL. I also tutor for the School of Computer Science at the university.
+Final-year BSc student in Computer and Information Sciences (Application Development) at Emeris, Newlands. I build C# / ASP.NET Core backends and wire them to Azure cloud services - serverless functions, table/blob/queue storage, and SQL. I also tutor for the School of Computer Science at the university.
 
 Open to backend and cloud engineering roles from November 2026.
 
-LinkedIn Email
+LinkedIn Email dillonrinkwest@outlook.com
 
 What I've been building
-Cloud-Azure-Functions-App — A retail management platform on ASP.NET Core 8 MVC with a cookie-auth + role-based access layer, backed by Azure SQL for credentials and Azure Table / Blob / Queue Storage for business data. CRUD is exposed through Azure Functions on the .NET 8 isolated worker.
+Cloud-Azure-Functions-App - A retail management platform on ASP.NET Core 8 MVC with a cookie-auth + role-based access layer, backed by Azure SQL for credentials and Azure Table / Blob / Queue Storage for business data. CRUD is exposed through Azure Functions on the .NET 8 isolated worker.
 CMCS_Platform — A contract monthly claim system for contractor lecturers: two-stage approval workflow (coordinator → manager), four user roles, AES-256 encrypted document storage, and an audit trail. EF Core + SQL Server, xUnit / MSTest.
 Chatbot — A WPF cybersecurity-awareness assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions.
 Toolbox
