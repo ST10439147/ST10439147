@@ -10,7 +10,7 @@
 
 ## About
 
-Final-year BCAD student in Computer and Information Sciences (Application Development) at Emeris, Newlands. I build **C# / ASP.NET Core** backends and wire them to **Azure** cloud services - serverless functions, table/blob/queue storage, and SQL. I also tutor for the School of Computer Science at the university.
+Final-year BCAD student in Computer and Information Sciences (Application Development) at Emeris, Newlands, carrying an **85.75% cumulative average** with distinctions in 19 of 20 modules. I build **C# / ASP.NET Core** backends and wire them to **Azure** cloud services - serverless functions, table/blob/queue storage, and SQL. I also tutor for the School of Computer Science at the university.
 
 > Open to backend and cloud engineering roles from **November 2026**.
 
