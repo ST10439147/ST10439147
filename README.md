@@ -25,7 +25,7 @@ Final-year BSc student in Computer and Information Sciences (Application Develop
 | **[Cloud-Azure-Functions-App](https://github.com/ST10439147/Cloud-Azure-Functions-App)** | Retail management platform on ASP.NET Core 8 MVC with cookie-auth + role-based access, backed by Azure SQL for credentials and Azure Table / Blob / Queue Storage for business data. CRUD is exposed through Azure Functions on the .NET 8 isolated worker. |
 | **[CMCS_Platform](https://github.com/ST10439147/CMCS_Platform)** | Contract monthly claim system for contractor lecturers: two-stage approval workflow (coordinator → manager), four user roles, AES-256 encrypted document storage, and an audit trail. EF Core + SQL Server, xUnit / MSTest. |
 | **[Chatbot](https://github.com/ST10439147/Chatbot)** | WPF cybersecurity-awareness assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions. |
-| **Quloobul Moe'mieneen — NPO Management Platform** *(Work-Integrated Learning, private)* | Currently building this for the non-profit as part of a student team. ASP.NET Core Web API on .NET 10, EF Core, Azure SQL Database, Azure Key Vault, Azure Blob Storage, Blazor web client, .NET MAUI Android client. |
+| **Quloobul Moe'mieneen — NPO Management Platform** *(Work-Integrated Learning, private)* | Currently building this for a non-profit organisation as part of a student team. ASP.NET Core Web API on .NET 10, EF Core, Azure SQL Database, Azure Key Vault, Azure Blob Storage, Blazor web client, .NET MAUI Android client. |
 
 ## Toolbox
 
