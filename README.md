@@ -20,6 +20,8 @@ Final-year BCAD student in Computer and Information Sciences (Application Develo
 
 ### Golden Key International Honour Society
 
+![Golden Key](https://img.shields.io/badge/Golden%20Key-Member-D4AF37?style=flat)
+
 Member of the Golden Key International Honour Society as of 12 May 2026, an invitation-only society recognising the top 15% of students academically.
 
 ## What I've been building
