@@ -18,6 +18,10 @@ Final-year BCAD student in Computer and Information Sciences (Application Develo
 
 **85.75% cumulative average** (≈ 3.9/4.0 GPA) toward the BCAD in Computer and Information Sciences (Application Development), with distinctions in 19 of 20 modules completed.
 
+### Golden Key International Honour Society
+
+Member of the Golden Key International Honour Society as of 12 May 2026, an invitation-only society recognising the top 15% of students academically.
+
 ## What I've been building
 
 <!-- Point these links at the real repos if the names/owner differ. -->
