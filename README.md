@@ -54,11 +54,23 @@ Member of the Golden Key International Honour Society as of 12 May 2026, an invi
 
 ## Toolbox
 
+<p align="center">
+  <img height="40" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="Blazor" title="Blazor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="Azure" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
+  <img height="40" alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
+  <img height="40" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+
 | | |
 | --- | --- |
 | **Languages** | C#, Java, SQL, JavaScript |
 | **Backend** | ASP.NET Core MVC (.NET 8), Entity Framework Core, ADO.NET, xUnit |
-| **Cloud** | Azure Functions, Azure SQL, Table / Blob / Queue Storage, Azure File Share |
+| **Cloud** | Azure Functions, Azure SQL, Table / Blob / Queue Storage, Azure File Share, Azure Web App service |
 | **Data &amp; tooling** | SQL Server, Git, Bootstrap 5 |
 
 ## GitHub activity
