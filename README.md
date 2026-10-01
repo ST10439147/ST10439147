@@ -85,13 +85,13 @@ Member of the Golden Key International Honour Society as of 12 May 2026, an invi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2026 - To: 29 September 2026
+From: 23 September 2026 - To: 30 September 2026
 
-C#           4 hrs 35 mins         ██████████▓░░░░░░░░░░░░░░   42.19 %
-Markdown     1 hr 31 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Razor        1 hr 26 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Binary       1 hr 21 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Bash         46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+C#           3 hrs 49 mins         ███████████▒░░░░░░░░░░░░░   45.05 %
+Razor        1 hr 18 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Markdown     1 hr 8 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Binary       50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Bicep        34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
 ```
 
 <!--END_SECTION:waka-->
