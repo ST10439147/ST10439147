@@ -85,13 +85,13 @@ Member of the Golden Key International Honour Society as of 12 May 2026, an invi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-C#           5 hrs 52 mins         ████████████░░░░░░░░░░░░░   47.75 %
-Razor        1 hr 22 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Markdown     1 hr 19 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Binary       51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-JavaScript   37 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+C#           6 hrs 49 mins         ███████████░░░░░░░░░░░░░░   44.35 %
+YAML         1 hr 48 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Razor        1 hr 22 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Markdown     1 hr 10 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+JSON         48 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 ```
 
 <!--END_SECTION:waka-->
