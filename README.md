@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:fe428e&height=180&section=header&text=Dillon%20Rinkwest&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Backend%20%26%20Cloud%20Engineer%20%E2%80%A2%20C%23%20%E2%80%A2%20.NET%20%E2%80%A2%20Azure&descAlignY=58&descSize=16" alt="Dillon Rinkwest — Backend and Cloud Engineer working in C#, .NET and Azure" />
+<img src="./assets/header.svg" width="100%" alt="Dillon Rinkwest — Backend and Cloud Engineer working in C#, .NET and Azure" />
 
 <p>
   <a href="https://www.linkedin.com/in/dillon-rinkwest-1005702a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -100,8 +100,6 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ST10439147&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10439147&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10439147&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph for the past year" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ST10439147/ST10439147/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/ST10439147/ST10439147/output/snake.svg" alt="A snake eating this year's contribution squares" />
@@ -128,5 +126,5 @@ Bash              40 mins               █▒░░░░░░░░░░░�
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:70a5fd,100:1a1b27&height=120&section=footer" alt="" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </div>
