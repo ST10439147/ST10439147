@@ -95,15 +95,19 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ST10439147&theme=tokyonight&hide_border=true" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
+<img src="./assets/streak.svg" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ST10439147&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10439147&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+<img height="190" src="./assets/stats.svg" alt="GitHub stats: contributions, commits, repositories and stars" />
+<img height="190" src="./assets/languages.svg" alt="Top languages by code size across public repositories" />
+
+<img src="./assets/activity.svg" alt="Contribution activity over the past year" width="780" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ST10439147/ST10439147/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/ST10439147/ST10439147/output/snake.svg" alt="A snake eating this year's contribution squares" />
 </picture>
+
+<sub>Stat cards are generated from the GitHub GraphQL API by <a href="./scripts/generate_stats.py">a script in this repo</a> and committed every 6 hours.</sub>
 
 </div>
 
