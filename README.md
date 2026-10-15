@@ -1,86 +1,115 @@
-<h1 align="center">Dillon Rinkwest</h1>
-<p align="center"><strong>Backend &amp; Cloud Engineer</strong> · Cape Town, South Africa</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dillon-rinkwest-1005702a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dillonrinkwest@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:fe428e&height=180&section=header&text=Dillon%20Rinkwest&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Backend%20%26%20Cloud%20Engineer%20%E2%80%A2%20C%23%20%E2%80%A2%20.NET%20%E2%80%A2%20Azure&descAlignY=58&descSize=16" alt="Dillon Rinkwest — Backend and Cloud Engineer working in C#, .NET and Azure" />
+
+<p>
+  <a href="https://www.linkedin.com/in/dillon-rinkwest-1005702a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dillonrinkwest@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ST10439147?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ST10439147&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile view count" />
 </p>
+
+</div>
 
 ---
 
-## About
+## 🧩 What I build
 
-Final-year BCAD student in Computer and Information Sciences (Application Development) at Emeris, Newlands. I build **C# / ASP.NET Core** backends and wire them to **Azure** cloud services - serverless functions, table/blob/queue storage, and SQL. I also tutor for the School of Computer Science at the university.
+Final-year BCAD student (Application Development) at **Emeris, Newlands**, Cape Town. I build **C# / ASP.NET Core** backends and wire them to **Azure**: serverless functions, table/blob/queue storage and SQL. I also tutor for the School of Computer Science.
 
-> Open to backend and cloud engineering roles from **November 2026**.
+```yaml
+focus:      backend & cloud engineering
+backend:    ASP.NET Core MVC / Web API · EF Core · ADO.NET · xUnit
+frontend:   Blazor · .NET MAUI · WPF · Bootstrap 5
+cloud:      Azure Functions · Azure SQL · Table / Blob / Queue Storage · Key Vault · Web Apps
+languages:  C# · Java · SQL · JavaScript
+available:  backend & cloud roles from November 2026
+```
 
-## Academics
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,java,js,git,github,visualstudio,vscode&theme=dark" alt="Tech stack: C#, .NET, Azure, Java, JavaScript, Git, GitHub, Visual Studio, VS Code" />
+</div>
 
-**85.75% cumulative average** (≈ 3.9/4.0 GPA) toward the BCAD in Computer and Information Sciences (Application Development), with distinctions in 19 of 20 modules completed.
+---
 
-### Golden Key International Honour Society
+## 🎓 Academics
 
-![Golden Key](https://img.shields.io/badge/Golden%20Key-Member-D4AF37?style=flat)
+**85.75% cumulative average** (≈ 3.9/4.0 GPA), with distinctions in 19 of 20 modules completed.
 
-Member of the Golden Key International Honour Society as of 12 May 2026, an invitation-only society recognising the top 15% of students academically.
+![Golden Key](https://img.shields.io/badge/Golden%20Key-Member-D4AF37?style=for-the-badge) Member of the **Golden Key International Honour Society** (since 12 May 2026), an invitation-only society recognising the top 15% of students.
 
-## What I've been building
+---
 
-<!-- Point these links at the real repos if the names/owner differ. -->
+## 🚀 Featured projects
 
-| Project | Description |
-| --- | --- |
-| **[Cloud-Azure-Functions-App](https://github.com/ST10439147/Cloud-Azure-Functions-App)** | Retail management platform on ASP.NET Core 8 MVC with cookie-auth + role-based access, backed by Azure SQL for credentials and Azure Table / Blob / Queue Storage for business data. CRUD is exposed through Azure Functions on the .NET 8 isolated worker. |
-| **[CMCS_Platform](https://github.com/ST10439147/CMCS_Platform)** | Contract monthly claim system for contractor lecturers: two-stage approval workflow (coordinator → manager), four user roles, AES-256 encrypted document storage, and an audit trail. EF Core + SQL Server, xUnit / MSTest. |
-| **[Chatbot](https://github.com/ST10439147/Chatbot)** | WPF cybersecurity-awareness assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions. |
-| **Quloobul Moe'mieneen - NPO Management Platform** *(Work-Integrated Learning, private)* | Currently building this for a non-profit organisation as part of a student team. ASP.NET Core Web API on .NET 10, EF Core, Azure SQL Database, Azure Key Vault, Azure Blob Storage, Blazor web client, .NET MAUI Android client. |
-| **[StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem)** | Java console app for managing student records - capture, search, delete, and generate reports on student information. |
-| **[KanbanBoard](https://github.com/ST10439147/KanbanBoard)** | Java task board: add tasks and generate a report view of tasks and their details. |
-| **[FPSJFrame](https://github.com/ST10439147/FPSJFrame)** | Java Swing maze game with background audio. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Coursework (PROG6212)
+### ☁️ [Azure Retail Platform](https://github.com/ST10439147/Cloud-Azure-Functions-App)
+Retail management on **ASP.NET Core 8 MVC** with cookie auth and role-based access. Azure SQL for credentials, Table / Blob / Queue Storage for business data, CRUD exposed through **Azure Functions** (.NET 8 isolated).
 
-[TheBigMystery - reflection, late binding & attribute-based programming](https://github.com/ST10439147/TheBigMystery_ST10439147_PROG_ICE05) ·
-[SheinusDorpers - building & configuring class libraries](https://github.com/ST10439147/SheinusDorpers) ·
-[DorperFarm2 (ICE02)](https://github.com/ST10439147/DorperFarm2_ST10439147_ICE02) ·
-[ICE03](https://github.com/ST10439147/ST10439147_PROG6212_ICE03) ·
-[ICE01](https://github.com/ST10439147/ST10439147_PROG6212_ICE01)
+`ASP.NET Core` `Azure Functions` `Azure Storage` `Azure SQL`
 
-## Experience
+</td>
+<td width="50%" valign="top">
 
-| Role | Where | Details |
-| --- | --- | --- |
-| **Tutor** | School of Computer Science, Emeris (Newlands) | Tutor for the School of Computer Science, supporting students in application development and programming fundamentals. |
+### 📑 [Contract Monthly Claim System](https://github.com/ST10439147/CMCS_Platform)
+Two-stage approval workflow (Coordinator → Manager) across four user roles, with **AES-256 encrypted** document storage and a full audit trail.
 
-## Toolbox
+`ASP.NET Core` `EF Core` `SQL Server` `xUnit`
 
-<p align="center">
-  <img height="40" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
-  <img height="40" alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;
-  <img height="40" alt="Blazor" title="Blazor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />&nbsp;&nbsp;
-  <img height="40" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
-  <img height="40" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img height="40" alt="Azure" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
-  <img height="40" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
-  <img height="40" alt="Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
-  <img height="40" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| | |
-| --- | --- |
-| **Languages** | C#, Java, SQL, JavaScript |
-| **Backend** | ASP.NET Core MVC (.NET 8), Entity Framework Core, ADO.NET, xUnit |
-| **Cloud** | Azure Functions, Azure SQL, Table / Blob / Queue Storage, Azure File Share, Azure Web App service |
-| **Data &amp; tooling** | SQL Server, Git, Bootstrap 5 |
+### 🤝 NPO Management Platform *(WIL, private)*
+Building with a student team for Quloobul Moe'mieneen, a non-profit: **ASP.NET Core Web API on .NET 10**, Blazor web client and a .NET MAUI Android client.
 
-## GitHub activity
+`.NET 10` `Blazor` `MAUI` `Azure SQL` `Key Vault`
 
-<p align="center">
-  <img height="160" alt="Dillon Rinkwest's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ST10439147&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10439147&layout=compact&hide_border=true&theme=transparent" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-## This week I coded
+### 🛡️ [Cybersecurity Awareness Chatbot](https://github.com/ST10439147/Chatbot)
+WPF assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions.
+
+`C#` `WPF`
+
+</td>
+</tr>
+</table>
+
+> ☕ **Java:** [StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem) · [KanbanBoard](https://github.com/ST10439147/KanbanBoard) · [FPSJFrame](https://github.com/ST10439147/FPSJFrame) (Swing maze game)
+
+---
+
+## 💼 Experience
+
+**Tutor**, School of Computer Science, Emeris (Newlands): supporting students in application development and programming fundamentals.
+
+---
+
+## 📊 By the numbers
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ST10439147&theme=tokyonight&hide_border=true" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ST10439147&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10439147&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10439147&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph for the past year" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ST10439147/ST10439147/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ST10439147/ST10439147/output/snake.svg" alt="A snake eating this year's contribution squares" />
+</picture>
+
+</div>
+
+### ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
 
@@ -96,4 +125,8 @@ Bash              40 mins               █▒░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center"><sub>The coding-time section updates itself from WakaTime via GitHub Actions.</sub></p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,50:70a5fd,100:1a1b27&height=120&section=footer" alt="" />
+</div>
