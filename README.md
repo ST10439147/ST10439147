@@ -122,9 +122,3 @@ Bash              40 mins               █▒░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="" />
-</div>
