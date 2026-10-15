@@ -32,6 +32,7 @@ available:  backend & cloud roles from November 2026
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge" alt="MS SQL Server" />
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge" alt="Oracle SQL Developer" />
 </div>
 
 ---
