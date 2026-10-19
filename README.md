@@ -121,13 +121,13 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
-Markdown          4 hrs 37 mins         ██████████░░░░░░░░░░░░░░░   40.44 %
-C#                2 hrs 11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-Text              1 hr 7 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-Razor             52 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-JavaScript        45 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Markdown          4 hrs 39 mins         █████████▒░░░░░░░░░░░░░░░   36.91 %
+C#                3 hrs 40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+Text              1 hr 7 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Razor             52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+YAML              33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
