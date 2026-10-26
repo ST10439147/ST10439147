@@ -15,7 +15,7 @@
 
 ## 🧩 What I build
 
-Final-year BCAD student (Application Development) at **Emeris, Newlands**, Cape Town. I build **C# / ASP.NET Core** backends and wire them to **Azure**: serverless functions, table/blob/queue storage and SQL. I also tutor for the School of Computer Science.
+Final-year Computer and Information Sciences student (Application Development) at **Emeris, Newlands**, Cape Town. I build fullstack **C# / ASP.NET Core** applications and occasionally wire them to **Azure**: serverless functions, table/blob/queue storage and SQL (Based on what the application entails). I also tutor for the School of Computer Science.
 
 ```yaml
 focus:      backend & cloud engineering
