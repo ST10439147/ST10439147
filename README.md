@@ -56,6 +56,8 @@ Retail management on **ASP.NET Core 8 MVC** with cookie auth and role-based acce
 
 `ASP.NET Core` `Azure Functions` `Azure Storage` `Azure SQL`
 
+<a href="https://youtu.be/P-oUV2yOKHA"><img src="https://img.youtube.com/vi/P-oUV2yOKHA/hqdefault.jpg" width="100%" alt="Watch the Azure Retail Platform demo on YouTube" /></a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -63,6 +65,8 @@ Retail management on **ASP.NET Core 8 MVC** with cookie auth and role-based acce
 Two-stage approval workflow (Coordinator → Manager) across four user roles, with **AES-256 encrypted** document storage and a full audit trail.
 
 `ASP.NET Core` `EF Core` `SQL Server` `xUnit`
+
+<a href="https://youtu.be/mzmmVi46Yd4"><img src="https://img.youtube.com/vi/mzmmVi46Yd4/hqdefault.jpg" width="100%" alt="Watch the Contract Monthly Claim System demo on YouTube" /></a>
 
 </td>
 </tr>
