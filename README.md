@@ -13,7 +13,7 @@
 
 ---
 
-## 🧩 What I build
+## What I build
 
 Final-year Computer and Information Sciences student (Application Development) at **Emeris, Newlands**, Cape Town. I build fullstack **C# / ASP.NET Core** applications and occasionally wire them to **Azure**: serverless functions, table/blob/queue storage and SQL (Based on what the application entails). I also tutor for the School of Computer Science.
 
@@ -37,7 +37,7 @@ available:  backend & cloud roles from November 2026
 
 ---
 
-## 🎓 Academics
+## Academics
 
 **85.75% cumulative average** (≈ 3.9/4.0 GPA), with distinctions in 19 of 20 modules completed.
 
@@ -45,13 +45,13 @@ available:  backend & cloud roles from November 2026
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Azure Retail Platform](https://github.com/ST10439147/Cloud-Azure-Functions-App)
+### [Azure Retail Platform](https://github.com/ST10439147/Cloud-Azure-Functions-App)
 Retail management on **ASP.NET Core 8 MVC** with cookie auth and role-based access. Azure SQL for credentials, Table / Blob / Queue Storage for business data, CRUD exposed through **Azure Functions** (.NET 8 isolated).
 
 `ASP.NET Core` `Azure Functions` `Azure Storage` `Azure SQL`
@@ -61,7 +61,7 @@ Retail management on **ASP.NET Core 8 MVC** with cookie auth and role-based acce
 </td>
 <td width="50%" valign="top">
 
-### 📑 [Contract Monthly Claim System](https://github.com/ST10439147/CMCS_Platform)
+### [Contract Monthly Claim System](https://github.com/ST10439147/CMCS_Platform)
 Two-stage approval workflow (Coordinator → Manager) across four user roles, with **AES-256 encrypted** document storage and a full audit trail.
 
 `ASP.NET Core` `EF Core` `SQL Server` `xUnit`
@@ -73,7 +73,7 @@ Two-stage approval workflow (Coordinator → Manager) across four user roles, wi
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 NPO Management Platform *(WIL, private)*
+### NPO Management Platform *(WIL, private)*
 Building with a student team for Quloobul Moe'mieneen, a non-profit: **ASP.NET Core Web API on .NET 10**, Blazor web client and a .NET MAUI Android client.
 
 `.NET 10` `Blazor` `MAUI` `Azure SQL` `Key Vault`
@@ -81,7 +81,7 @@ Building with a student team for Quloobul Moe'mieneen, a non-profit: **ASP.NET C
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [Cybersecurity Awareness Chatbot](https://github.com/ST10439147/Chatbot)
+### [Cybersecurity Awareness Chatbot](https://github.com/ST10439147/Chatbot)
 WPF assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions.
 
 `C#` `WPF`
@@ -94,13 +94,13 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Tutor**, School of Computer Science, Emeris (Newlands): supporting students in application development and programming fundamentals.
 
 ---
 
-## 📊 By the numbers
+## By the numbers
 
 <div align="center">
 
@@ -121,7 +121,7 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 </div>
 
 <!--
-### ⏱️ This week I coded
+### This week I coded
 
 START_SECTION:waka
 
