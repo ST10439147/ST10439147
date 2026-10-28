@@ -120,9 +120,10 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 
 </div>
 
+<!--
 ### ⏱️ This week I coded
 
-<!--START_SECTION:waka-->
+START_SECTION:waka
 
 ```txt
 From: 19 October 2026 - To: 26 October 2026
@@ -134,4 +135,5 @@ PowerShell        40 mins               █▓░░░░░░░░░░░�
 Java Properties   35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka
+-->
