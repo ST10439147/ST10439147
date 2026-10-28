@@ -96,7 +96,8 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 
 ## Experience
 
-**Tutor**, School of Computer Science, Emeris (Newlands): supporting students in application development and programming fundamentals.
+- **Tutor**, School of Computer Science, IIE Emeris (Newlands): supporting students in application development and programming fundamentals.
+- **Lead Cloud/Devops, bBackend Engineer**, Student Team for NPO: Creatting a management system for the NPO to solve their inconsistancies and struggles with everyday life.
 
 ---
 
