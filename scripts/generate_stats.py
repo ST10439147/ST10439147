@@ -9,7 +9,9 @@ BG, FG, ACCENT, MUTED = "#1a1b27", "#c0caf5", "#70a5fd", "#787c99"
 Q = """query($u:String!){user(login:$u){
  contributionsCollection{totalCommitContributions contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}
  repositories(ownerAffiliations:OWNER,isFork:false,privacy:PUBLIC,first:100){totalCount nodes{stargazerCount
-  languages(first:5,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}"""
+  languages(first:5,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}
+ recent:repositories(ownerAffiliations:OWNER,isFork:false,privacy:PUBLIC,first:5,orderBy:{field:PUSHED_AT,direction:DESC}){nodes{
+  name description pushedAt primaryLanguage{name color}}}}}"""
 
 req = urllib.request.Request(
     "https://api.github.com/graphql",
@@ -96,3 +98,17 @@ b = (text(25, 32, "Contribution activity", 18, ACCENT, 700)
      + text(L - 8, T + 4, mx, 11, MUTED, 400, "end") + text(L - 8, BT + 4, 0, 11, MUTED, 400, "end")
      + text(L, BT + 20, "weekly contributions, past year", 11, MUTED))
 write("activity", svg(W, H, b, "Contribution activity"))
+
+# recently pushed repos
+b = text(25, 38, "Recently shipped", 18, ACCENT, 700)
+for i, r in enumerate([r for r in u["recent"]["nodes"] if r["name"] != USER][:4]):  # skip this bot-pushed repo
+    y = 76 + i * 30
+    age = (dt.date.today() - dt.date.fromisoformat(r["pushedAt"][:10])).days
+    desc = r["description"] or ""
+    lang = r["primaryLanguage"] or {"name": "", "color": None}
+    b += (text(25, y, r["name"], 14, FG, 700)
+          + text(250, y, desc[:52] + ("…" if len(desc) > 52 else ""), 13, MUTED)
+          + (f'<circle cx="590" cy="{y - 5}" r="5" fill="{lang["color"] or ACCENT}"/>' if lang["name"] else "")
+          + text(602, y, lang["name"], 13, FG)
+          + text(755, y, "today" if age == 0 else f"{age}d ago", 13, MUTED, 400, "end"))
+write("recent", svg(780, 190, b, "Recently pushed repositories"))

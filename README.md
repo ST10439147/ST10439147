@@ -97,7 +97,7 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 ## Experience
 
 - **Tutor**, School of Computer Science, IIE Emeris (Newlands): supporting students in application development and programming fundamentals.
-- **Lead Cloud/Devops, bBackend Engineer**, Student Team for NPO: Creatting a management system for the NPO to solve their inconsistancies and struggles with everyday life.
+- **Lead Cloud/DevOps and Backend Engineer**, Student Team for NPO: creating a management system that solves the NPO's inconsistencies and day-to-day operational struggles.
 
 ---
 
@@ -111,6 +111,8 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 <img height="190" src="./assets/languages.svg" alt="Top languages by code size across public repositories" />
 
 <img src="./assets/activity.svg" alt="Contribution activity over the past year" width="780" />
+
+<img src="./assets/recent.svg" alt="My most recently pushed public repositories" width="780" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ST10439147/ST10439147/output/snake-dark.svg" />
