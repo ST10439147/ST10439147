@@ -22,12 +22,12 @@ focus:      backend & cloud engineering
 backend:    ASP.NET Core MVC / Web API · EF Core · ADO.NET · xUnit
 frontend:   Blazor · .NET MAUI · WPF · Bootstrap 5
 cloud:      Azure Functions · Azure SQL · Table / Blob / Queue Storage · Key Vault · Web Apps · Firebase
-languages:  C# · Kotlin · Java · SQL · NoSQL · JavaScript
+languages:  C# · Python · Kotlin · Java · SQL · NoSQL · JavaScript
 available:  backend & cloud roles from November 2026
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,java,js,azure,firebase,mongodb,ubuntu,debian,git,github,visualstudio,vscode&theme=dark" alt="Tech stack: C#, .NET, Kotlin, Java, JavaScript, Azure, Firebase, MongoDB, Ubuntu, Debian, Git, GitHub, Visual Studio, VS Code" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,kotlin,java,js,azure,firebase,mongodb,ubuntu,debian,git,github,visualstudio,vscode&theme=dark" alt="Tech stack: C#, .NET, Python, Kotlin, Java, JavaScript, Azure, Firebase, MongoDB, Ubuntu, Debian, Git, GitHub, Visual Studio, VS Code" />
 <br />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge" alt="MS SQL Server" />
