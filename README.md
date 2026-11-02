@@ -23,7 +23,7 @@ backend:    ASP.NET Core MVC / Web API · EF Core · ADO.NET · xUnit
 frontend:   Blazor · .NET MAUI · WPF · Bootstrap 5
 cloud:      Azure Functions · Azure SQL · Table / Blob / Queue Storage · Key Vault · Web Apps · Firebase
 languages:  C# · Python · Kotlin · Java · SQL · NoSQL · JavaScript · TypeScript 
-available:  backend & cloud roles from November 2026
+available:  Backend · Fullstack & Cloud roles from 15 November 2026
 ```
 
 <div align="center">
