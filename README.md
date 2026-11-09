@@ -18,7 +18,7 @@
 Final-year Computer and Information Sciences student (Application Development) at **Emeris, Newlands**, Cape Town. I build fullstack **C# / ASP.NET Core** applications and occasionally wire them to **Azure**: serverless functions, table/blob/queue storage and SQL (Based on what the application entails). I also tutor for the School of Computer Science.
 
 ```yaml
-focus:      Software engineering | backend · cloud · Fullstack
+focus:      Software engineering | backend · cloud · Fullstack | AI Engineering
 backend:    ASP.NET Core MVC / Web API · EF Core · ADO.NET · xUnit
 frontend:   Blazor · .NET MAUI · WPF · Bootstrap 5
 cloud:      Azure Functions · Azure SQL · Table / Blob / Queue Storage · Key Vault · Web Apps · Firebase
