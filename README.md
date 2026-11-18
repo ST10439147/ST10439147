@@ -88,6 +88,16 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Vaultlet](https://github.com/ST10439147/Vaultlet)
+Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES-256-GCM** vault encryption, an end-to-end encrypted sync server with three-way merge, CLI / TUI clients, TOTP, HIBP breach checks and a browser extension for autofill.
+
+`Python` `Cryptography` `Argon2id` `AES-GCM` `JavaScript`
+
+</td>
+</tr>
 </table>
 
 > ☕ **Java:** [StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem) · [KanbanBoard](https://github.com/ST10439147/KanbanBoard) · [FPSJFrame](https://github.com/ST10439147/FPSJFrame) (Swing maze game)
