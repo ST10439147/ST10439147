@@ -73,6 +73,8 @@ Two-stage approval workflow (Coordinator → Manager) across four user roles, wi
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/cards/npo.svg" width="100%" alt="NPO Management Platform banner" />
+
 ### NPO Management Platform *(WIL, private)*
 Building with a student team for Quloobul Moe'mieneen, a non-profit: **ASP.NET Core Web API on .NET 10**, Blazor web client and a .NET MAUI Android client.
 
@@ -80,6 +82,8 @@ Building with a student team for Quloobul Moe'mieneen, a non-profit: **ASP.NET C
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/cards/chatbot.svg" width="100%" alt="Cybersecurity Awareness Chatbot banner" />
 
 ### [Cybersecurity Awareness Chatbot](https://github.com/ST10439147/Chatbot)
 WPF assistant with sentiment detection, a scored quiz module, and user state (name, preferences, history) persisted across sessions.
@@ -91,6 +95,8 @@ WPF assistant with sentiment detection, a scored quiz module, and user state (na
 <tr>
 <td colspan="2" valign="top">
 
+<img src="./assets/cards/vaultlet.svg" width="100%" alt="Vaultlet banner" />
+
 ### [Vaultlet](https://github.com/ST10439147/Vaultlet)
 Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES-256-GCM** vault encryption, an end-to-end encrypted sync server with three-way merge, CLI / TUI clients, TOTP, HIBP breach checks and a browser extension for autofill.
 
@@ -101,13 +107,17 @@ Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/cards/smartx.svg" width="100%" alt="SmartX IoT Mesh Simulator banner" />
+
 ### [SmartX IoT Mesh Simulator](https://github.com/ST10439147/SmartX-IoT-mesh-simulator)
-Smart-X IoT mesh gateway: an ASP.NET Core .NET 10 ingestion API and Blazor WebAssembly dashboard for a simulated ESP32 farm sensor mesh. Covers telemetry, command queues, and AVL/graph-based mesh routing with Prim's MST.
+ASP.NET Core telemetry API and Blazor WebAssembly dashboard for a simulated ESP32 farm sensor mesh, with AVL-tree storage and graph-based routing.
 
 `C#`
 
 </td>
 <td width="50%" valign="top">
+
+<img src="./assets/cards/hustlehub.svg" width="100%" alt="HustleHub banner" />
 
 ### [HustleHub](https://github.com/ST10439147/HustleHub)
 Application that links freelancers and clients together.

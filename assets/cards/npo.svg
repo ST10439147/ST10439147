@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="100%">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#70a5fd"/><stop offset="100%" stop-color="#fe428e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="260" fill="#1a1b27"/>
+  <path d="M0 170 Q 200 130 400 165 T 800 150 L800 260 L0 260 Z" fill="url(#g)" opacity="0.35"/>
+  <path d="M0 200 Q 220 170 420 200 T 800 185 L800 260 L0 260 Z" fill="url(#g)" opacity="0.25"/>
+  <text x="400" y="110" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#ffffff">NPO Management Platform</text>
+  <text x="400" y="152" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#cfd6e6">Non-profit operations, web and Android</text>
+  <text x="400" y="232" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#70a5fd">.NET 10 · Blazor · MAUI · Azure SQL · Key Vault</text>
+</svg>
