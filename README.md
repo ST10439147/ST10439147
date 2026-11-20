@@ -27,12 +27,22 @@ available:  Backend · Fullstack · Cloud roles
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,kotlin,java,js,azure,firebase,mongodb,ubuntu,debian,git,github,visualstudio,vscode&theme=dark" alt="Tech stack: C#, .NET, Python, Kotlin, Java, JavaScript, Azure, Firebase, MongoDB, Ubuntu, Debian, Git, GitHub, Visual Studio, VS Code" />
-<br />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge" alt="MS SQL Server" />
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge" alt="Oracle SQL Developer" />
+
+<sub><b>BACKEND</b></sub><br />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,kotlin&theme=dark" alt="Backend: C#, .NET, Python, Java, Kotlin" />
+
+<sub><b>FRONTEND</b></sub><br />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap&theme=dark" alt="Frontend: JavaScript, TypeScript, HTML, CSS, Bootstrap" />
+
+<sub><b>CLOUD &amp; TOOLS</b></sub><br />
+<img src="https://skillicons.dev/icons?i=azure,firebase,docker,git,github,visualstudio,vscode,ubuntu,debian&theme=dark" alt="Cloud and tools: Azure, Firebase, Docker, Git, GitHub, Visual Studio, VS Code, Ubuntu, Debian" />
+
+<sub><b>DATA</b></sub><br />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge" alt="MS SQL Server" />
+<img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+<img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge" alt="Oracle SQL Developer" />
+
 </div>
 
 ---
