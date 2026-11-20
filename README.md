@@ -98,6 +98,16 @@ Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [SmartX IoT Mesh Simulator](https://github.com/ST10439147/SmartX-IoT-mesh-simulator)
+IoT mesh simulator for a farm, built in C#.
+
+`C#`
+
+</td>
+</tr>
 </table>
 
 > ☕ **Java:** [StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem) · [KanbanBoard](https://github.com/ST10439147/KanbanBoard) · [FPSJFrame](https://github.com/ST10439147/FPSJFrame) (Swing maze game)
@@ -107,7 +117,6 @@ Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES
 | Project | What it is |
 |---|---|
 | [HustleHub](https://github.com/ST10439147/HustleHub) | Application linking freelancers and clients together (JavaScript) |
-| [SmartX-IoT-mesh-simulator](https://github.com/ST10439147/SmartX-IoT-mesh-simulator) | IoT mesh simulator for a farm (C#) |
 | [BinaryTreeSearch](https://github.com/ST10439147/BinaryTreeSearch) | Binary tree searching (C#) |
 | [MorseCode_BinaryTrees](https://github.com/ST10439147/MorseCode_BinaryTrees) | Morse code translation using binary trees (C#) |
 | [SheinusDorpers](https://github.com/ST10439147/SheinusDorpers) | Class library exercises: Learning Unit 2, Theme 1 (C#) |
