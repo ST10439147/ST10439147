@@ -102,7 +102,7 @@ Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES
 <td width="50%" valign="top">
 
 ### [SmartX IoT Mesh Simulator](https://github.com/ST10439147/SmartX-IoT-mesh-simulator)
-IoT mesh simulator for a farm, built in C#.
+Smart-X IoT mesh gateway: an ASP.NET Core .NET 10 ingestion API and Blazor WebAssembly dashboard for a simulated ESP32 farm sensor mesh. Covers telemetry, command queues, and AVL/graph-based mesh routing with Prim's MST.
 
 `C#`
 
