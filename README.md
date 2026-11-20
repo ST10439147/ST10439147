@@ -108,6 +108,16 @@ IoT mesh simulator for a farm, built in C#.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [HustleHub](https://github.com/ST10439147/HustleHub)
+Application that links freelancers and clients together.
+
+`JavaScript`
+
+</td>
+</tr>
 </table>
 
 > ☕ **Java:** [StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem) · [KanbanBoard](https://github.com/ST10439147/KanbanBoard) · [FPSJFrame](https://github.com/ST10439147/FPSJFrame) (Swing maze game)
@@ -116,7 +126,6 @@ IoT mesh simulator for a farm, built in C#.
 
 | Project | What it is |
 |---|---|
-| [HustleHub](https://github.com/ST10439147/HustleHub) | Application linking freelancers and clients together (JavaScript) |
 | [BinaryTreeSearch](https://github.com/ST10439147/BinaryTreeSearch) | Binary tree searching (C#) |
 | [MorseCode_BinaryTrees](https://github.com/ST10439147/MorseCode_BinaryTrees) | Morse code translation using binary trees (C#) |
 | [SheinusDorpers](https://github.com/ST10439147/SheinusDorpers) | Class library exercises: Learning Unit 2, Theme 1 (C#) |
