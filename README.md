@@ -99,7 +99,7 @@ Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### [SmartX IoT Mesh Simulator](https://github.com/ST10439147/SmartX-IoT-mesh-simulator)
 IoT mesh simulator for a farm, built in C#.
@@ -107,9 +107,7 @@ IoT mesh simulator for a farm, built in C#.
 `C#`
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### [HustleHub](https://github.com/ST10439147/HustleHub)
 Application that links freelancers and clients together.
