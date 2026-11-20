@@ -35,7 +35,8 @@ available:  Backend · Fullstack · Cloud roles
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap&theme=dark" alt="Frontend: JavaScript, TypeScript, HTML, CSS, Bootstrap" />
 
 <h3>Cloud &amp; Tools</h3>
-<img src="https://skillicons.dev/icons?i=azure,firebase,docker,git,github,visualstudio,vscode,ubuntu,debian,postman,swagger&theme=dark" alt="Cloud and tools: Azure, Firebase, Docker, Git, GitHub, Visual Studio, VS Code, Ubuntu, Debian, Postman, Swagger" />
+<img src="https://skillicons.dev/icons?i=azure,firebase,docker,git,github,visualstudio,vscode,ubuntu,debian,postman&theme=dark" alt="Cloud and tools: Azure, Firebase, Docker, Git, GitHub, Visual Studio, VS Code, Ubuntu, Debian, Postman" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 
 <h3>Data</h3>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
