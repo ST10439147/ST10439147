@@ -102,6 +102,21 @@ Local-first, zero-knowledge password manager: **Argon2id** key derivation, **AES
 
 > ☕ **Java:** [StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem) · [KanbanBoard](https://github.com/ST10439147/KanbanBoard) · [FPSJFrame](https://github.com/ST10439147/FPSJFrame) (Swing maze game)
 
+### More projects
+
+| Project | What it is |
+|---|---|
+| [HustleHub](https://github.com/ST10439147/HustleHub) | Application linking freelancers and clients together (JavaScript) |
+| [SmartX-IoT-mesh-simulator](https://github.com/ST10439147/SmartX-IoT-mesh-simulator) | IoT mesh simulator for a farm (C#) |
+| [BinaryTreeSearch](https://github.com/ST10439147/BinaryTreeSearch) | Binary tree searching (C#) |
+| [MorseCode_BinaryTrees](https://github.com/ST10439147/MorseCode_BinaryTrees) | Morse code translation using binary trees (C#) |
+| [SheinusDorpers](https://github.com/ST10439147/SheinusDorpers) | Class library exercises: Learning Unit 2, Theme 1 (C#) |
+| [TheBigMystery_ST10439147_PROG_ICE05](https://github.com/ST10439147/TheBigMystery_ST10439147_PROG_ICE05) | PROG6212 ICE 05: reflection, late binding and attribute-based programming (C#) |
+| [DorperFarm2_ST10439147_ICE02](https://github.com/ST10439147/DorperFarm2_ST10439147_ICE02) | PROG6212 ICE 02 (C#) |
+| [ST10439147_PROG6212_ICE01](https://github.com/ST10439147/ST10439147_PROG6212_ICE01) | PROG6212 ICE 01 (C#) |
+| [ST10439147_PROG6212_ICE03](https://github.com/ST10439147/ST10439147_PROG6212_ICE03) | PROG6212 ICE 03 (C#) |
+| [DillonRink](https://github.com/ST10439147/DillonRink) | Config files for my GitHub profile |
+
 ---
 
 ## Experience
