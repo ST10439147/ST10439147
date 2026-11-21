@@ -137,6 +137,16 @@ Application that links freelancers and clients together.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Global Logistics Management System](https://github.com/ST10439147/GLMS)
+Logistics platform for managing regional clients, contracts (Draft → Active → Expired / On Hold, with signed PDF agreements) and service requests. **Blazor Server** frontend talks to a separate **ASP.NET Core REST API** over JWT, with role-based access (Admin, Manager, Viewer), live currency conversion and **Docker Compose** deployment.
+
+`Blazor` `ASP.NET Core Web API` `EF Core` `JWT` `Docker`
+
+</td>
+</tr>
 </table>
 
 > ☕ **Java:** [StudentManagerSystem](https://github.com/ST10439147/StudentManagerSystem) · [KanbanBoard](https://github.com/ST10439147/KanbanBoard) · [FPSJFrame](https://github.com/ST10439147/FPSJFrame) (Swing maze game)
